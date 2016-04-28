@@ -10,35 +10,35 @@ added new optional NotEnoughRessources on 0.1.0-122 // 2272500
 readded galactigreg because it is still needed to generate Gregtech ores on galaticraft planets, sorry for the confusion there
 readded optional morpheus on server side
 removed eureka since it is no longer nessecary
-updated AE2 Stuff to 0.5.1.61 (updated translations) //???;2272496
-Updated Applecore to 1.3.0 (bugfixes and enhancements) //???;2277393
-updated Applied Energistics 2 to rv3 beta 6 (updated translations) // ???;2296430
-updated AromaBackup to 0.1.0.0 (bugfixes and enhancements) // ???;2284754
-updated Brandon's Core to 1.0.0.12 (bugfixes and enhanvements) // ???;2292125
-updated BuildCraft to 7.1.16 (bugfixes and enhancements) // ???;2289501
-updated BuildCraft Compat to 7.1.4 (bugfixes and enhancements) // ???;2296609
-updated Chisel to 2.9.5.11 (bugfixes) // ???;2287442
-updated CompactStorage to 2.1.0-lts.21 (bugfixes) //???;2276736
-updated DecoCraft 2 to 2.3.2 (minor Enhancements) // ???;2293819
-updated Draconic Evolution to 1.0.2b (Bugfixes and Improvements) // ???;2294644
-updated EnderCore to 0.2.0.33 (bugfixes) // ???;2294483
-updated ExtraPlanets to 1.0-Pre 3.5.1 (need Config regen) // ???;2295939
-updated Fastcraft to 1.23 (bugfixes and enhancements) // ???;2292386
-updated Fluxed-Core to 1.0.9 (mostly bugfixes) // ???;2288074
-updated Forestry to 4.2.12 (mostly bugfixes) // ???;2296588
-updated Gendustry to 1.6.4.135 (bugfixes and translations) // ???;2293751
-updated Gravesone to 2.16.1 (bugfixes) // ???;2290274
-updated Iguanas Tinker Tweaks to 2.1.6 (mostly bugfixes;final 1.7.10 release) //2288329
-updated Immersive Enginierening to 0.7.5 (many changes;supposed to be in LTS now) // ???;2291857
-updated Immersive Integration to 0.6.8 (bugfixes) // ???;2289306
-updated IC² Expermental to 2.2.821 (no changelog provided) // ???;2294744
-updated JourneyMap to 5.1.4 (Bugfixes) // ???;2283867
-updated Minefactory Reloaded to 2.8.2B1-179 (no changelog provided) // ???;2296068
-updated Pam's Clay Spawn to 1.7.70b (enhancements) // ???;2274122
-updated RailCraft to 9.10.0.0 (Bugfixes and enhancements) // ???;2288989
-updated RFTools to 4.23 (Bugfixes) // ???;2287287
-updated storageDrawers to 1.9.7 (Bugfixes and enhancements) // ???; 2292237
-updated Tinkers Construct to 1.8.8-991 (API Bugfixes) // ???;2277012
+updated AE2 Stuff to 0.5.1.61 (updated translations) //225194;2272496
+Updated Applecore to 1.3.0 (bugfixes and enhancements) //224472;2277393
+updated Applied Energistics 2 to rv3 beta 6 (updated translations) // 223794;2296430
+updated AromaBackup to 0.1.0.0 (bugfixes and enhancements) // 225658;2284754
+updated Brandon's Core to 1.0.0.12 (bugfixes and enhanvements) // 231382;2292125
+updated BuildCraft to 7.1.16 (bugfixes and enhancements) // 61811;2289501
+updated BuildCraft Compat to 7.1.4 (bugfixes and enhancements) // 233140;2296609
+updated Chisel to 2.9.5.11 (bugfixes) // 235279;2287442
+updated CompactStorage to 2.1.0-lts.21 (bugfixes) //223703;2276736
+updated DecoCraft 2 to 2.3.2 (minor Enhancements) // 79616;2293819
+updated Draconic Evolution to 1.0.2b (Bugfixes and Improvements) // 223565;2294644
+updated EnderCore to 0.2.0.33 (bugfixes) // 231868;2294483
+updated ExtraPlanets to 1.0-Pre 3.5.1 (need Config regen) // 241291;2295939
+updated Fastcraft to 1.23 (bugfixes and enhancements) // 242677;2292386
+updated Fluxed-Core to 1.0.9 (mostly bugfixes) // 237039;2288074
+updated Forestry to 4.2.12 (mostly bugfixes) // 59751;2296588
+updated Gendustry to 1.6.4.135 (bugfixes and translations) // 70492;2293751
+updated Gravesone to 2.16.1 (bugfixes) // 62929;2290274
+updated Iguanas Tinker Tweaks to 2.1.6 (mostly bugfixes;final 1.7.10 release) // 223248;2288329
+updated Immersive Enginierening to 0.7.5 (many changes;supposed to be in LTS now) // 231951;2291857
+updated Immersive Integration to 0.6.8 (bugfixes) // 232159;2289306
+updated IC² Expermental to 2.2.821 (no changelog provided) // 242638;2294744
+updated JourneyMap to 5.1.4 (Bugfixes) // 32274;2283867
+updated Minefactory Reloaded to 2.8.2B1-179 (no changelog provided) // 66672;2296068
+updated Pam's Clay Spawn to 1.7.70b (enhancements) // 221913;2274122
+updated RailCraft to 9.10.0.0 (Bugfixes and enhancements) // 51195;2288989
+updated RFTools to 4.23 (Bugfixes) // 224641;2287287
+updated storageDrawers to 1.9.7 (Bugfixes and enhancements) // 223852; 2292237
+updated Tinkers Construct to 1.8.8-991 (API Bugfixes) // 74072;2277012
 updated third party GalactiCraft to 3.0.12.454 (Bugfixes and enhancements)
 updated third party GregTech to 5.09.21 (many changes)
 updated third party GTTweaker to 1.2.2 (many changes)

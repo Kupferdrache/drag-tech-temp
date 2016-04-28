@@ -138,37 +138,37 @@
     {
       "projectID": 225604,
       "fileID": 2260741,
-      "required": false // intern falls nÃ¶tig auf true stellen
+      "required": false // intern falls nötig auf true stellen
     },
     {
       "projectID": 223094,
       "fileID": 2210792,
-      "required": false // intern falls nÃ¶tig auf true stellen
+      "required": false // intern falls nötig auf true stellen
     },
     {
       "projectID": 32274,
       "fileID": 2283867,
-      "required": false // // intern falls nÃ¶tig auf true stellen, das ist die MiniMap
+      "required": false // // intern falls nötig auf true stellen, das ist die MiniMap
     },
     {
       "projectID": 225605,
       "fileID": 2225146,
-      "required": false // intern falls nÃ¶tig auf true stellen
+      "required": false // intern falls nötig auf true stellen
     },
     {
       "projectID": 60089,
       "fileID": 2209265,
-      "required": false // intern falls nÃ¶tig auf true stellen
+      "required": false // intern falls nötig auf true stellen
     },
     {
       "projectID": 76845,
       "fileID": 2246472,
-      "required": false // intern falls nÃ¶tig auf true stellen
+      "required": false // intern falls nötig auf true stellen
     },
     {
       "projectID": 225608,
       "fileID": 2219060,
-      "required": false // intern falls nÃ¶tig auf true stellen, WorlEdit fÃ¼r die Admins
+      "required": false // intern falls nötig auf true stellen, WorlEdit für die Admins
     },
     {
       "projectID": 222213,
@@ -253,7 +253,7 @@
     {
       "projectID": 230976,
       "fileID": 2272838,
-      "required": false // intern falls nÃ¶tig auf true stellen, nur fÃ¼r SSP oder Server
+      "required": false // intern falls nötig auf true stellen, nur für SSP oder Server
     },
     {
       "projectID": 237039,
@@ -398,7 +398,7 @@
     {
       "projectID": 225815,
       "fileID": 2272500,
-      "required": false // intern falls nÃ¶tig auf true stellen wird nur im client gebraucht
+      "required": false // intern falls nötig auf true stellen wird nur im client gebraucht
     },
     {
       "projectID": 236813,

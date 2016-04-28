@@ -1,0 +1,116 @@
+Version history for DragTech IV
+
+0.8.6.0-RC1
+
+!!!WARNING: THIS UPDATE WON'T BE SUPPORTED BY THE ALPHA TEST SERVER, WAIT FOR 0.8.6.1!!!
+
+added enchiridion on 2.0.2a // 76612;2242855
+added Mariculture on 1.2.4.2a // 68023;2234977
+added new optional NotEnoughRessources on 0.1.0-122 // 2272500
+readded galactigreg because it is still needed to generate Gregtech ores on galaticraft planets, sorry for the confusion there
+readded optional morpheus on server side
+removed eureka since it is no longer nessecary
+updated AE2 Stuff to 0.5.1.61 (updated translations) //???;2272496
+Updated Applecore to 1.3.0 (bugfixes and enhancements) //???;2277393
+updated Applied Energistics 2 to rv3 beta 6 (updated translations) // ???;2296430
+updated AromaBackup to 0.1.0.0 (bugfixes and enhancements) // ???;2284754
+updated Brandon's Core to 1.0.0.12 (bugfixes and enhanvements) // ???;2292125
+updated BuildCraft to 7.1.16 (bugfixes and enhancements) // ???;2289501
+updated BuildCraft Compat to 7.1.4 (bugfixes and enhancements) // ???;2296609
+updated Chisel to 2.9.5.11 (bugfixes) // ???;2287442
+updated CompactStorage to 2.1.0-lts.21 (bugfixes) //???;2276736
+updated DecoCraft 2 to 2.3.2 (minor Enhancements) // ???;2293819
+updated Draconic Evolution to 1.0.2b (Bugfixes and Improvements) // ???;2294644
+updated EnderCore to 0.2.0.33 (bugfixes) // ???;2294483
+updated ExtraPlanets to 1.0-Pre 3.5.1 (need Config regen) // ???;2295939
+updated Fastcraft to 1.23 (bugfixes and enhancements) // ???;2292386
+updated Fluxed-Core to 1.0.9 (mostly bugfixes) // ???;2288074
+updated Forestry to 4.2.12 (mostly bugfixes) // ???;2296588
+updated Gendustry to 1.6.4.135 (bugfixes and translations) // ???;2293751
+updated Gravesone to 2.16.1 (bugfixes) // ???;2290274
+updated Iguanas Tinker Tweaks to 2.1.6 (mostly bugfixes;final 1.7.10 release) //2288329
+updated Immersive Enginierening to 0.7.5 (many changes;supposed to be in LTS now) // ???;2291857
+updated Immersive Integration to 0.6.8 (bugfixes) // ???;2289306
+updated IC² Expermental to 2.2.821 (no changelog provided) // ???;2294744
+updated JourneyMap to 5.1.4 (Bugfixes) // ???;2283867
+updated Minefactory Reloaded to 2.8.2B1-179 (no changelog provided) // ???;2296068
+updated Pam's Clay Spawn to 1.7.70b (enhancements) // ???;2274122
+updated RailCraft to 9.10.0.0 (Bugfixes and enhancements) // ???;2288989
+updated RFTools to 4.23 (Bugfixes) // ???;2287287
+updated storageDrawers to 1.9.7 (Bugfixes and enhancements) // ???; 2292237
+updated Tinkers Construct to 1.8.8-991 (API Bugfixes) // ???;2277012
+updated third party GalactiCraft to 3.0.12.454 (Bugfixes and enhancements)
+updated third party GregTech to 5.09.21 (many changes)
+updated third party GTTweaker to 1.2.2 (many changes)
+changed InventoryTweaks to be optional
+changed LunariusCore to be optional
+changed Ingame Info XML to be optional
+changed JourneyMap to be optional
+changed mousetweaks to be optional
+changed TiCToolTips to be optional
+
+0.8.5.3
+
+downgraded NotEnoughItems to 1.0.5.118 to match with Curse (complain about this by chickenbones)
+updated NuclearControl to 2.3.4a to match with curse
+updated Pistronics to 0.6.4 to match with curse
+changed provider of OpenComputer to 1.6.0.3-rc1 to match with curse
+WARNING!!! THIS UPDATE WILL BREAK MULTIPLAYER ON THE ALPHA TEST SERVER!!!
+change archive comression to deflate to match with curse processing system, this will increase the size of the files you have to download.
+added new optional Mod IC2 NEI Crop Plugin from Speiger on 1.1.0
+
+0.8.5.2
+
+added missed Baubles to the archive
+repaired Aromabackup Link for Curse
+Fixed a lot of configs and scripts
+
+0.8.5.1
+
+added elemental creppers
+added Binnie Patcher
+removed liteloader
+removed Minechem
+removed Morpheus
+removed Progressive Automation
+removed deprecated Quarry Plus
+removed RFWindmills
+updated AE2 Stuff to rv3-0.5.1.9
+updated AgriCraft to 1.5.0
+updated AOBD to 2.9.1
+updated Applied Energistigs to rv3-beta-5
+updated Aroma1997Core to 1.0.2.16
+updated Bdlib to 1.9.4.109
+updated BiblioCraft to 1.11.4
+updated Bioms O'Plenty to 2.1.0.1899
+updated Botania to 1.8 r249
+updated chisel to 2.9.4.10
+updated ExtraCells2 to 2.3.9b188
+updated Forestry to 4.2.10.58
+updated GalatiCraft to 3.0.12.446
+updated Gendustry to 1.6.3.132
+updated Gregtech to 5.09.19
+updated Immersive Engineering to 0.7.1.2
+updated Immersive Integration to 0.6.7
+updated Industrial Craft² to 2.2.815
+updated MagicBees to 2.4.3
+updated Minefactory Reloaded to 2.8.2B1-177
+updated MineTweaker to 3.0.10B
+updated NetherOres to 2.3.1-22
+updated OpenComputers to 1.6.0.867
+updated Project Red to 4.7.0pre12.95
+updated Railcraft to 9.9.0.0
+updated RFTopols to 4.22
+updated Tinkers Construct to 1.8.8
+updated ThermalDynamics to 1.2.0B2
+updated ThermalExpansion to 4.1.2-240
+updated ThermalFoundation to 1.2.3-112
+updated ThermalSmeltery to 1.2.1
+many more Bugfixes
+closed AlphaTest for future Offical Server
+
+Known Issues
+
+Binnies Mods crashes you to desktop if you try to analyze a Tree with Binnies Analyzer
+Binnies Mods crashes you to desktop if you try to use the Treedatabase to look for tree abbilities
+There are still GT error 001 Items present, help us to find the Mods adding this recipies

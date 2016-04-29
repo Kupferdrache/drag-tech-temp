@@ -1,5 +1,9 @@
 Version history for DragTech IV
 
+0.8.6-0-RC2
+
+create file to upload to curse
+
 0.8.6.0-RC1
 
 !!!WARNING: THIS UPDATE WON'T BE SUPPORTED BY THE ALPHA TEST SERVER, WAIT FOR 0.8.6.1!!!

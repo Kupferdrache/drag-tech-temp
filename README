@@ -1,16 +1,29 @@
 This is DragTech IV
 
-This is the version for use with the curse voice launcher.
+Installation
+
+ A. a) for release packages: Use curse voice client
+
+   Browse to our Pack and follow the instructions provided.
+
+    b) for all packages: create a new instance and import the zip to it. Now follow the instructions.
+B. Install manual
+
+  Install Forge Forge either from the forge subdirectory or from their website.
+
+  Copy all other files into your Instance directory.
+
 
 Systemrequirements (recommended minimums client side)
+
 AMD A8-3870 or similar Intel Processor
 8 GiB RAM
 64-bit OS
+
+at least 500 MiB free Harddisk space
 set your Minecraft to use up to 6 GiB RAM
 
-Version history can be found in the version-history.txt file.
-
-If you find Bugs write a comment or contact us at team [at] hug-portal . eu .
+If you find Bugs write a comment or contact us at <hidden> .
 
 Have Fun with it
 

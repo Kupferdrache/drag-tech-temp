@@ -7,7 +7,7 @@ Version history for DragTech IV
 added enchiridion on 2.0.2a // 76612;2242855
 added Mariculture on 1.2.4.2a // 68023;2234977
 added new optional NotEnoughRessources on 0.1.0-122 // 2272500
-readded galactigreg because it is still needed to generate Gregtech ores on galaticraft planets, sorry for the confusion there
+readded galactigreg on 0.7 because it is still needed to generate Gregtech ores on galaticraft planets, sorry for the confusion there
 readded optional morpheus on server side
 removed eureka since it is no longer nessecary
 updated AE2 Stuff to 0.5.1.61 (updated translations) //225194;2272496
